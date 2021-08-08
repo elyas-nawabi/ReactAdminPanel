@@ -16,10 +16,10 @@ function App() {
       <Topbar />
       <div className="container">
         <Sidebar />
-        <Switch>
         <Route exact path="/ReactAdminPanel">
             <Home />
           </Route>
+        <Switch>
           <Route exact path="/">
             <Home />
           </Route>
