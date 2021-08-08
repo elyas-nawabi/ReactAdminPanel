@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactAdminPanel/static/css/main.cf6ad62a.chunk.css",
+    "main.js": "/ReactAdminPanel/static/js/main.aa7ace2c.chunk.js",
+    "main.js.map": "/ReactAdminPanel/static/js/main.aa7ace2c.chunk.js.map",
+    "runtime-main.js": "/ReactAdminPanel/static/js/runtime-main.1ed2d730.js",
+    "runtime-main.js.map": "/ReactAdminPanel/static/js/runtime-main.1ed2d730.js.map",
+    "static/js/2.6911dcf6.chunk.js": "/ReactAdminPanel/static/js/2.6911dcf6.chunk.js",
+    "static/js/2.6911dcf6.chunk.js.map": "/ReactAdminPanel/static/js/2.6911dcf6.chunk.js.map",
+    "index.html": "/ReactAdminPanel/index.html",
+    "static/css/main.cf6ad62a.chunk.css.map": "/ReactAdminPanel/static/css/main.cf6ad62a.chunk.css.map",
+    "static/js/2.6911dcf6.chunk.js.LICENSE.txt": "/ReactAdminPanel/static/js/2.6911dcf6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed2d730.js",
+    "static/js/2.6911dcf6.chunk.js",
+    "static/css/main.cf6ad62a.chunk.css",
+    "static/js/main.aa7ace2c.chunk.js"
+  ]
+}
