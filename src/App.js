@@ -17,6 +17,9 @@ function App() {
       <div className="container">
         <Sidebar />
         <Switch>
+        <Route exact path="/ReactAdminPanel">
+            <Home />
+          </Route>
           <Route exact path="/">
             <Home />
           </Route>
